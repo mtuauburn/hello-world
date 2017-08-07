@@ -1,2 +1,4 @@
 # hello-world
-Intro to Github
+Intro to the world
+Github
+This is my first commit
