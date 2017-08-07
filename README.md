@@ -1,4 +1,4 @@
 # hello-world
 Intro to the world
-Github
+Github example
 This is my first commit
